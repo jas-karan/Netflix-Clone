@@ -1,4 +1,4 @@
-# Here is Website [Link] (https://netflix-clone-52d26.web.app/)
+# Here is Website [Link](https://netflix-clone-52d26.web.app/) (deployed to Firebase Hosting)
 
 # Getting Started with Create React App
 
